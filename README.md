@@ -15,8 +15,8 @@
 
 ## 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/shivani-shree-s/
